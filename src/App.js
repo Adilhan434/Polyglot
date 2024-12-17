@@ -30,7 +30,7 @@ function App() {
 
               <div className='registr'>
                   <input placeholder="Адрес элеткронной почты"></input>
-                  <button type='submit' className='btn2'>Начать учиться</button>
+                  <a href='#prices'><button type='submit' className='btn2'>Начать учиться</button></a>
               </div>
             </div>
 
